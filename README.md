@@ -5,7 +5,7 @@ This is the repository for my course, [Bootstrap 4: First Look](http://www.lynda
 - [My Personal Website](http://raybo.org)
 
 ## Description
-Bootstrap 4 is here, and it's an important update that touches nearly every line of code. Get your first look at the changes in this popular responsive design platform. Our resident Bootstrap expert Ray Villalobos covers Reboot.css, which standardizes a lot of the CSS in Bootstrap 4; the new card components; and changes to the grid, forms, and tables in Bootstrap. Plus, find out how to compensate for the deprecation of Glyphicons and adjust to smaller changes throughout the platform. These tips will help you avoid some of the pitfalls when it comes to upgrading your own site from Bootstrap 3—and get excited about what's to come.
+Bootstrap 4 is here, and it's an important update that touches nearly every line of code. Get your first look at the changes in this popular responsive design platform. Our resident Bootstrap expert Ray Villalobos covers Reboot.css, which standardizes a lot of the CSS in Bootstrap 4; the new card components; and changes to the grid, forms, and tables in Bootstrap. Plus, find out how to compensate for the deprecation of Glyphicons and adjust to smaller changes throughout the platform. These tips will help you avoid some of the pitfalls when it comes to upgrading your own site from Bootstrap 3 and get excited about what's to come.
 
 ### Topics include:
 - Installing the upgrade
