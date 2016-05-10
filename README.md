@@ -1,9 +1,18 @@
-[![Bootstrap 4: First Look](hero.png)]()
+[![Bootstrap 4: First Look](hero.png)](http://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-First-Look/372547-2.html)
 
 # Bootstrap 4: First Look
-This is the repository for my course, [Bootstrap 4: First Look](). The full course is available at [lynda.com](http://lynda.com).
+This is the repository for my course, [Bootstrap 4: First Look](http://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-First-Look/372547-2.html). The full course is available at [lynda.com](http://lynda.com).
 - [My Personal Website](http://raybo.org)
 
+## Description
+Bootstrap 4 is here, and it's an important update that touches nearly every line of code. Get your first look at the changes in this popular responsive design platform. Our resident Bootstrap expert Ray Villalobos covers Reboot.css, which standardizes a lot of the CSS in Bootstrap 4; the new card components; and changes to the grid, forms, and tables in Bootstrap. Plus, find out how to compensate for the deprecation of Glyphicons and adjust to smaller changes throughout the platform. These tips will help you avoid some of the pitfalls when it comes to upgrading your own site from Bootstrap 3—and get excited about what's to come.
+
+### Topics include:
+- Installing the upgrade
+- Using Reboot.css
+- Using the new grid
+- Working with new navigation and card components
+- Understanding table and form changes
 
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage. Or you can simply add `/tree/BRANCH_NAME` to the URL to go to the branch you want to peek at.
